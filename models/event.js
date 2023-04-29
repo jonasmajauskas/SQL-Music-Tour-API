@@ -27,4 +27,4 @@ Event.init({
 
 
 //Export
-module.exports = Band
+module.exports = Event
