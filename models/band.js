@@ -32,7 +32,7 @@ Band.init({
     //extra options here
     sequelize, //mandatory to create a sequelize connection instance
     modelName: "Band",
-    tableName: "Band",
+    tableName: "bands",
     createdAt,
     updatedAt
 }) 
