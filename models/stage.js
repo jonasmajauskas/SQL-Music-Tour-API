@@ -27,4 +27,4 @@ Stage.init({
 
 
 //Export
-module.exports = Band
+module.exports = Stage
